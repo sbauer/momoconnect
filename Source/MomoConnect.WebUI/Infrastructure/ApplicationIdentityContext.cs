@@ -4,6 +4,7 @@ using System.Configuration;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity.EntityFramework;
 using MomoConnect.WebUI.Models;
+using MomoConnect.WebUI.Models.Domain;
 using MongoDB.Driver;
 
 namespace MomoConnect.WebUI.Infrastructure

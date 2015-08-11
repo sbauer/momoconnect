@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace MomoConnect.WebUI.Models
+namespace MomoConnect.WebUI.Models.ViewModels
 {
     public class ExternalLoginConfirmationViewModel
     {

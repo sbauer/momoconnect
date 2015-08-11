@@ -8,6 +8,7 @@ using Microsoft.Owin.Security.Google;
 using MomoConnect.WebUI.Infrastructure;
 using Owin;
 using MomoConnect.WebUI.Models;
+using MomoConnect.WebUI.Models.Domain;
 
 namespace MomoConnect.WebUI
 {

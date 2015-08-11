@@ -1,11 +1,9 @@
-﻿using System.Data.Entity;
-using System.Security.Claims;
+﻿using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
-using Microsoft.AspNet.Identity.EntityFramework;
 using IdentityUser = AspNet.Identity.MongoDB.IdentityUser;
 
-namespace MomoConnect.WebUI.Models
+namespace MomoConnect.WebUI.Models.Domain
 {
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit http://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
     public class ApplicationUser : IdentityUser

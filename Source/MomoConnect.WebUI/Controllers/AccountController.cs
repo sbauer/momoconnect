@@ -9,6 +9,8 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using MomoConnect.WebUI.Models;
+using MomoConnect.WebUI.Models.Domain;
+using MomoConnect.WebUI.Models.ViewModels;
 
 namespace MomoConnect.WebUI.Controllers
 {

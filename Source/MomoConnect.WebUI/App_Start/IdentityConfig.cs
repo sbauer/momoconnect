@@ -12,6 +12,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using MomoConnect.WebUI.Infrastructure;
 using MomoConnect.WebUI.Models;
+using MomoConnect.WebUI.Models.Domain;
 
 namespace MomoConnect.WebUI
 {
